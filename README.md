@@ -62,3 +62,27 @@ The following steps were performed in this lab:
 ---
 
 # **Repository Structure**
+
+Bayesian-Inference-Lab/
+│
+├── data/ # Dataset used in the lab
+├── notebooks/ # Jupyter notebook implementation
+├── reports/ # Exported HTML report
+├── pdf/ # Lab instructions
+└── README.md
+
+
+
+---
+
+# **Learning Outcomes
+
+Through this lab, I gained hands-on experience with:
+
+Bayesian parameter estimation
+
+Posterior distribution interpretation
+
+Probabilistic modeling
+
+Visualization of uncertainty in regression models
